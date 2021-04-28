@@ -46,15 +46,31 @@
 
 </div>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Outras bibliotecas foram utilizadas para a execução dos exercicios,  certifique de instalar as seguintes bibliotecas para o funcionamento do código: ..</br>
+
+<div align= 'center'>
+
+```  pip install pandas```
+
+</div>
+
+<div align= 'center'>
+
+```  pip install ploty```
+
+</div>
+
 
 ### Sites acessados :link:
 - [Google](https://google.com.br/)
 - [SulÁmerica](http://netvmi.com.br/)
+- [CVM](http://dados.cvm.gov.br/dados/FI/DOC/INF_DIARIO/DADOS/)
 
 
 
 ### Funcionamento :arrow_forward:
-
+- [Exercicio 1]()
+- [Exercicio 2](https://github.com/barbara-barbosa/Teste-de-l-gica-de-programa-o-e-Python/blob/main/Exercicio_2.py)
 - [Exercicio 3](https://github.com/barbara-barbosa/Teste-de-l-gica-de-programa-o-e-Python/blob/main/Exercicio_3.py)
 - [Exercicio 4](https://github.com/barbara-barbosa/Teste-de-l-gica-de-programa-o-e-Python/blob/main/Exercicio_4.py)
 
