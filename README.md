@@ -69,7 +69,7 @@
 
 
 ### Funcionamento :arrow_forward:
-- [Exercicio 1]()
+- [Exercicio 1](https://github.com/barbara-barbosa/Teste-de-l-gica-de-programa-o-e-Python/blob/main/Exercicio_1.py)
 - [Exercicio 2](https://github.com/barbara-barbosa/Teste-de-l-gica-de-programa-o-e-Python/blob/main/Exercicio_2.py)
 - [Exercicio 3](https://github.com/barbara-barbosa/Teste-de-l-gica-de-programa-o-e-Python/blob/main/Exercicio_3.py)
 - [Exercicio 4](https://github.com/barbara-barbosa/Teste-de-l-gica-de-programa-o-e-Python/blob/main/Exercicio_4.py)
