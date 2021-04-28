@@ -56,7 +56,7 @@
 ### Funcionamento :arrow_forward:
 
 - [Exercicio 3](https://github.com/barbara-barbosa/Teste-de-l-gica-de-programa-o-e-Python/blob/main/Exercicio_3.py)
-- [Exercicio 4]
+- [Exercicio 4](https://github.com/barbara-barbosa/Teste-de-l-gica-de-programa-o-e-Python/blob/main/Exercicio_4.py)
 
 
 ### Referências :link:
